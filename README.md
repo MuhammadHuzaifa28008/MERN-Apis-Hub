@@ -5,8 +5,16 @@
         
 # FOR VISITORS
     Apis url can be copied, Without Login
-    Need to create account and then you will be able to perform actions like -> Add Apis , Delete Apis, update Profile data and delete Account
+    Need to create account and then you will be able to perform actions like
+        -> Add Apis , Delete Apis, update Profile data and delete Account
+        -> No UX for in progress or performed actions.
+    https://mern-apis-hub.netlify.app/
     
+ # DEPLOYMENT
+    Front-end and Back-end are deployed on different servers.
+        MERN-apis-hub: [ https://mern-apis-hub.netlify.app/ ]
+    Front-end on NETLIFY: https://app.netlify.com/
+    Back-end on ADAPTABLE: https://adaptable.io/
 #  SERVER 
     Mongo db Atlas connected
     Single user model is being used.  User Data & Added Apis 
